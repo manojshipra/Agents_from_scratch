@@ -10,7 +10,6 @@ A Python-based AI agent that combines the power of Google's Gemini AI with custo
 
 # 🔧 Installation
 #Clone the repository
-git clone https://github.com/yourusername/ai-search-agent.git
 
 #Navigate to the project directory
 cd ai-search-agent
